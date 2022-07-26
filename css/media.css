@@ -1,0 +1,792 @@
+
+@media (min-width: 320px) and (max-width:449.5px){
+    .banner1-section .posi {
+   
+    display: none !important;
+}
+.security-section .security a{
+    margin-top: 10px;
+    display: inline-block;
+}
+
+    .navbar-collapse{
+        background-color:#54127f;
+    }
+        .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+  display:inline-block;
+  margin: 10px 0px;
+}
+.navbar-light .navbar-nav .nav-item{
+    text-align: center;
+
+}
+form{
+    justify-content: center;
+}
+.form-control {
+ 
+    width: 21%;
+}
+.navbar-light .navbar-toggler {
+    color:white;
+    border-color:white;
+}
+ .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+
+   
+    font-size: 14px;
+}
+.banner1-section .banner1{
+    text-align: center;
+}
+
+.banner1-section .banner1 h1 {
+    font-size: 36px !important;
+    text-align: center;
+   
+}
+.banner1-section .banner1 h2 {
+    font-size: 35px;
+   
+  
+   text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+.banner1-section .banner1 p {
+    font-size: 15px;
+    text-align: center;
+}
+.banner1-section .posi {
+   
+    right: -368px !important;
+}
+.banner2-section .banner-image2 .posi1 {
+   
+    top: -206px;
+    left: -499px;
+}
+.banner2-section .banner22 {
+    text-align: center;
+}
+.lamp-section .posi2 {
+  
+ 
+    top:-10px;
+}
+.banner2-section .banner22 h3 {
+    font-size: 26px;
+}
+.banner2-section .banner22 h4 {
+    font-size: 22px;
+   
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
+.banner2-section .banner22 p {
+    font-size: 14px;
+}
+.lamp-section .lamp h5 {
+    font-size: 16px;
+   
+    margin-top: 30px;
+    margin-bottom: 17px;
+}
+.lamp-section .lamp img {
+    height: 80px;
+}
+.lamp-section .lamp p {
+    font-size: 13px;
+}
+.security-section .container h1 {
+    font-size: 25px;
+     padding-bottom: 15px;
+   
+}
+.security-section .security:hover{
+    transform: scale(1);
+
+}
+.security-section .security {
+   margin-bottom: 20px !important;
+}
+.security-section .container .pp {
+    padding-top: 6px;
+}
+.security-section .security {
+    width: 250px;
+    margin:auto;
+}
+.security-section .security .secumid {
+    padding-bottom: 10px !important;
+}
+.house-section .house2 {
+    text-align: center;
+}
+.house-section .house2 h2 {
+    font-size: 22px;
+    padding-top:20px !important;
+}
+.house-section .house2 p {
+    font-size: 13px;
+    
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+.house-section .house2 a {
+    font-size: 13px !important;
+   
+    padding: 3px 6px !important;
+}
+.monitor-section .monitor {
+    text-align: center!important;
+}
+.monitor-section .monitor h2 {
+    font-size: 35px!important;
+        margin-bottom: 10px!important;
+}
+.monitor-section .monitor p {
+    font-size: 13px!important;
+    margin-bottom: 4px!important;
+}
+.monitor-section .monitor .in {
+    margin-top: 10px!important;
+    margin-bottom: 15px!important;
+}
+.monitor-section .monitor .in1 {
+   margin-bottom: 25px!important;
+}
+.about-section .about2 {
+   text-align:center;
+}
+.about-section .about2 .lorem {
+    font-size: 13px!important;
+ 
+    margin-top: 7px!important;
+    margin-bottom: 10px!important;
+}
+.offer-section h2 {
+    font-size: 20px!important;
+}
+.offer-section .offer:hover {
+    transform: translateY(0px)!important;
+}
+
+.offer-section .offer {
+     width: 250px!important;
+    margin: auto!important;
+    margin-bottom: 18px!important;
+}
+footer .foot {
+   text-align: center!important;
+}
+footer .foot h2 {
+    font-size: 17px!important;
+}
+footer .foot p {
+    font-size: 12px!important;
+}
+footer .foot li {
+    font-size: 12px!important;
+}
+   
+
+
+
+
+
+
+
+}
+
+@media  (min-width: 450px)  and (max-width: 575.99px){
+	.navbar-collapse{
+		background-color:#54127f;
+	}
+		.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+  display:inline-block;
+  margin: 10px 0px;
+}
+.navbar-light .navbar-nav .nav-item{
+	text-align: center;
+
+}
+form{
+	justify-content: center;
+}
+.form-control {
+ 
+    width: 21%;
+}
+.navbar-light .navbar-toggler {
+    color:white;
+    border-color:white;
+}
+ .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+
+   
+    font-size: 14px;
+}
+.banner1-section .banner1{
+	text-align: center;
+}
+.banner1-section .banner1 h1 {
+    font-size: 40px !important;
+    text-align: center;
+
+}
+.banner1-section .banner1 h2 {
+    font-size: 35px;
+   
+  
+   text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+.banner1-section .banner1 p {
+    font-size: 15px;
+    text-align: center;
+}
+.banner1-section .posi {
+   
+    right: -368px !important;
+}
+.banner2-section .banner-image2 .posi1 {
+   
+    top: -206px;
+    left: -499px;
+}
+.banner2-section .banner22 {
+	text-align: center;
+}
+.lamp-section .posi2 {
+  
+ 
+    top:-10px;
+}
+.banner2-section .banner22 h3 {
+    font-size: 35px;
+}
+.banner2-section .banner22 h4 {
+    font-size: 26px;
+   
+    margin-top: 13px;
+    margin-bottom: 23px;
+}
+.banner2-section .banner22 p {
+    font-size: 15px;
+}
+.lamp-section .lamp h5 {
+    font-size: 18px;
+   
+    margin-top: 44px;
+    margin-bottom: 20px;
+}
+.lamp-section .lamp img {
+    height: 110px;
+}
+.lamp-section .lamp p {
+    font-size: 14px;
+}
+.security-section .container h1 {
+    font-size: 33px;
+     padding-bottom: 20px;
+   
+}
+.security-section .security:hover{
+	transform: scale(1);
+
+}
+.security-section .security {
+   margin-bottom: 30px !important;
+}
+.security-section .container .pp {
+    padding-top: 6px;
+}
+.security-section .security {
+	width: 350px;
+	margin:auto;
+}
+.security-section .security .secumid {
+    padding-bottom: 14px !important;
+}
+.house-section .house2 {
+    text-align: center;
+}
+.house-section .house2 h2 {
+    font-size: 26px;
+    padding-top:30px !important;
+}
+.house-section .house2 p {
+    font-size: 14px;
+    
+    margin-top: 15px;
+    margin-bottom: 14px;
+}
+.house-section .house2 a {
+    font-size: 13px !important;
+   
+    padding: 5px 8px !important;
+}
+.monitor-section .monitor {
+    text-align: center!important;
+}
+.monitor-section .monitor h2 {
+    font-size: 42px!important;
+        margin-bottom: 14px!important;
+}
+.monitor-section .monitor p {
+    font-size: 15px!important;
+    margin-bottom: 6px!important;
+}
+.monitor-section .monitor .in {
+    margin-top: 14px!important;
+    margin-bottom: 19px!important;
+}
+.monitor-section .monitor .in1 {
+   margin-bottom: 30px!important;
+}
+.about-section .about2 {
+   text-align:center;
+}
+.about-section .about2 .lorem {
+    font-size: 14px!important;
+ 
+    margin-top: 9px!important;
+    margin-bottom: 12px!important;
+}
+.offer-section h2 {
+    font-size: 22px!important;
+}
+.offer-section .offer:hover {
+    transform: translateY(0px)!important;
+}
+
+.offer-section .offer {
+     width: 300px!important;
+    margin: auto!important;
+    margin-bottom: 20px!important;
+}
+footer .foot {
+   text-align: center!important;
+}
+footer .foot h2 {
+    font-size: 20px!important;
+}
+footer .foot p {
+    font-size: 13px!important;
+}
+footer .foot li {
+    font-size: 13px!important;
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width:767.99px){
+	.navbar-collapse{
+		background-color:#54127f;
+	}
+		.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+  display:inline-block;
+  margin: 10px 0px;
+}
+.navbar-light .navbar-nav .nav-item{
+	text-align: center;
+
+}
+form{
+	justify-content: center;
+}
+.form-control {
+ 
+    width: 21%;
+}
+.navbar-light .navbar-toggler {
+    color:white;
+    border-color:white;
+}
+ .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+
+   
+    font-size: 16px;
+}
+.banner1-section .banner1{
+	text-align: center;
+}
+.banner1-section .banner1 h1 {
+    font-size: 40px !important;
+    text-align: center;
+    width:516px !important;
+}
+.banner1-section .banner1 h2 {
+    font-size: 35px;
+   
+  
+   text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+.banner1-section .banner1 p {
+    font-size: 15px;
+    text-align: center;
+}
+.banner2-section .banner22 {
+text-align: center;
+
+}
+.lamp-section .posi2 {
+  
+    right: -292px;
+    top:-54px;
+}
+.banner2-section .banner22 {
+	text-align: center;
+}
+.security-section .security {
+   margin-bottom: 30px !important;
+}
+.security-section .container h1 {
+    font-size: 33px;
+    padding-bottom: 40px;
+}
+.security-section .container .pp {
+    padding-top: 6px;
+}
+.security-section .security {
+	width: 400px;
+	margin:auto;
+}
+.security-section .security .secumid {
+    padding-bottom: 14px !important;
+}
+.house-section .house1 {
+    height:329px !important;
+}
+.house-section .house1 img {
+   
+    padding-top: 53px !important;
+}
+.house-section .house2 h2 {
+    font-size: 30px!important;
+}
+.house-section .house2 p {
+    font-size: 13px !important;
+    margin-top: 9px!important;
+    margin-bottom: 9px!important;
+}
+.house-section .house2 a {
+    font-size: 13px !important;
+   
+    padding: 5px 8px !important;
+}
+.house-section .house1 {
+    padding: 0px 0px;
+}
+.monitor-section .monitor {
+    text-align: center!important;
+}
+.monitor-section .monitor h2 {
+    font-size: 42px!important;
+        margin-bottom: 14px!important;
+}
+.monitor-section .monitor p {
+    font-size: 15px!important;
+    margin-bottom: 6px!important;
+}
+.monitor-section .monitor .in {
+    margin-top: 14px!important;
+    margin-bottom: 19px!important;
+}
+.monitor-section .monitor .in1 {
+   margin-bottom: 30px!important;
+}
+.about-section .about2 {
+   text-align:center;
+}
+.about-section .about2 .lorem {
+    font-size: 14px!important;
+ 
+    margin-top: 9px!important;
+    margin-bottom: 12px!important;
+}
+.offer-section h2 {
+    font-size: 24px!important;
+   
+    margin-bottom: 28px!important;
+}
+.offer-section .offer:hover {
+    transform: translateY(-8px)!important;
+}
+footer .foot {
+   text-align: center!important;
+}
+footer .foot h2 {
+    font-size: 22px!important;
+}
+footer .foot p {
+    font-size: 15px!important;
+}
+footer .foot li {
+    font-size: 15px!important;
+}
+  
+
+
+
+
+	
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width:991.99px){
+
+.navbar-collapse{
+		background-color:#54127f;
+	}
+	.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+  display:inline-block;
+  margin: 10px 0px;
+}
+.navbar-light .navbar-nav .nav-item{
+	text-align: center;
+
+}
+form{
+	justify-content: center;
+}
+.form-control {
+ 
+    width: 21%;
+}
+.navbar-light .navbar-toggler {
+    color:white;
+    border-color:white;
+}
+.banner1-section .banner-image {
+    height: 460px;
+    width: 334px;
+  
+}
+.banner1-section .banner-image {
+    height: 560px;
+    padding:50px 0px 0px !important;
+    }
+
+
+
+
+.banner1-section .banner1 h1 {
+    font-size: 50px;
+    width:337px;
+}
+.banner1-section .banner1 h2 {
+    font-size: 36px !important;
+}
+.banner1-section .banner1 p {
+    font-size: 14px !important;
+}
+.banner1-section .banner1 a {
+   
+    padding: 4px 7px !important;
+}
+.banner2-section .banner-image2 {
+   
+    height: 504px!important;
+    padding: 0px !important;
+  
+    width: 397px !important;
+}
+.lamp-section .lamp h5 {
+    font-size: 18px;
+   
+    margin-top: 44px;
+    margin-bottom: 20px;
+}
+.lamp-section .lamp img {
+    height: 110px;
+}
+.lamp-section .lamp p {
+    font-size: 14px;
+}
+.security-section .security img {
+    width: 171px;
+   
+}
+.security-section .security p {
+   
+    font-size: 13px;
+}
+.security-section .security .secumid {
+    padding-bottom: 85px;
+}
+.security-section .security .secumid1 {
+    padding-bottom: 16px;
+}
+.security-section .container h1 {
+    font-size: 33px;
+    padding-bottom: 40px;
+}
+.house-section .house1 {
+    height:329px !important;
+}
+.house-section .house1 img {
+   
+    padding-top: 53px !important;
+}
+.house-section .house2 h2 {
+    font-size: 42px!important;
+}
+.house-section .house2 p {
+    font-size: 14px !important;
+   
+    margin-top: 29px!important;
+    margin-bottom: 22px!important;
+}
+.house-section .house2 a {
+    font-size: 13px !important;
+   
+    padding: 5px 8px !important;
+}
+.house-section .house1 {
+    padding: 0px 0px;
+}
+.monitor-section .monitor h2 {
+    font-size: 40px !important;
+   
+    margin-bottom: 15px!important;
+}
+.monitor-section .monitor p {
+    font-size: 15px!important;
+    margin-bottom: 8px !important;
+}
+.monitor-section .monitor .in {
+    margin-top: 0px !important;
+    margin-bottom: 32px !important;
+}
+.monitor-section .monitor .in h3 {
+    font-size: 18px!important;
+}
+.monitor-section .monitor .in h4 {
+    font-size: 25px!important;
+}
+.monitor-section .monitor .in1 a {
+   
+    padding: 3px 9px!important;
+}
+.monitor-section .monitor .in1 h5 {
+    font-size: 14px!important;
+}
+.about-section .about1 {
+    padding: 50px 0px 0px!important;
+}
+.about-section .about2 .lorem {
+   
+    
+    margin-top: 14px!important;
+    margin-bottom: 15px!important;
+}
+.about-section .about2 h1 {
+    font-size: 35px!important;
+   
+}
+.about-section .about2 .lorem {
+    font-size: 14px!important;
+}
+.about-section .about2 .abo .col-11 p {
+    font-size: 14px!important;
+    margin-bottom: 6px!important;
+}
+.offer-section h2 {
+    font-size: 34px!important;
+  
+    margin-bottom: 51px!important;
+}
+
+
+
+
+	
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width:1199.99px){
+
+ nav .social-icon ul li{
+ 	width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 5px;
+ 
+    line-height: 17px;
+    padding-left: 5px;
+ 
+ }
+  nav .social-icon ul li a i{
+ 	font-size: 12px;
+ 
+ }
+  form{
+  	width: 130px;
+  }
+  .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active {
+
+    padding: 5px 13px !important;
+    font-size: 18px;
+    
+    margin-right: 4px;
+   
+    border-radius: 8px;
+}
+.house-section .house1 {
+    height:480px !important;
+}
+.house-section .house1 img {
+   
+    padding-top: 34px !important;
+}
+.house-section .house2 h2 {
+    font-size: 50px!important;
+}
+.house-section .house2 p {
+    font-size: 15px !important;
+   
+    margin-top: 29px!important;
+    margin-bottom: 22px!important;
+}
+.about-section .about2 .lorem {
+   
+    
+    margin-top: 14px!important;
+    margin-bottom: 15px!important;
+}
+
+
+
+
+
+
+	
+}
